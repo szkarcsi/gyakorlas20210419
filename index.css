@@ -1,0 +1,109 @@
+body{
+	background-color:lightblue;
+}
+h1{
+	text-align: center;
+	width:100%;
+	font-weight: 800;
+}
+
+h2{
+	text-transform: uppercase;
+	font-family: serif;
+	font-weight: 700;
+	font-size: 200%;
+	text-align: center;
+	width: 100%;
+	color: red;
+}
+
+#carnet{
+	width:840px;
+	height:470px;
+	padding: 0px 0px 35px 35px;
+	background-color: dodgerblue;
+	background-repeat: no-repeat;
+	margin: 25px;
+	padding-top: 20px;
+	border: 5px solid black;
+	background-position: center;
+}
+
+#carnet1{
+	width:740px;
+	height:420px;
+	padding: 25px 0px 38px 38px;
+	background-color: dodgerblue;
+	background-repeat: no-repeat;
+	margin: 25px;
+	padding-top: 25px;
+	border: 5px solid black;
+	background-position: center;
+}
+
+#kep{
+	width:800px;
+	height:450px;
+}
+
+#kep1{
+	width:700px;
+	height:400px;
+}
+
+#bek{
+	text-align: center;
+	height: 80px;
+	width:95%;
+	font-weight: 800;
+	font-size: 120%;
+}
+
+#left{
+	float:left;
+	text-align:left;
+	font-size:150%;
+	font-weight:650;
+	margin-top:px;
+	margin-left:5px;
+}
+
+#center{
+	float:left;
+	text-align:left;
+	font-size:150%;
+	font-weight:650;
+	margin-top:px;
+	margin-left:5px;
+	margin-right:5px;
+	width:30%;
+}
+
+#right{
+	float:left;
+	text-align:left;
+	font-size:150%;
+	font-weight:650;
+	margin-top:px;
+	margin-right:5px;
+	width:30%;
+}
+
+#aresz{
+	list-style-type:circle;
+}
+
+#bresz{
+	list-style-type:disc;
+}
+
+#cresz{
+	list-style-type:decimal;
+}
+
+#list{
+	height: 275px;
+	width:90%;
+	font-weight: 800;
+	font-size: 120%;
+}
